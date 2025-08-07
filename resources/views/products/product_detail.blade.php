@@ -1,5 +1,11 @@
 @extends('main') 
 @section('content')
+<style>
+    * {
+        font-family: 'Roboto', sans-serif !important;
+    }
+</style>
+
 <section class="sec-product-detail bg0 p-t-65 p-b-60">
     <div class="container">
       <section class="sec-product-detail bg0 p-t-65 p-b-60">
