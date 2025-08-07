@@ -25,7 +25,7 @@
 						</div>						
 					</div>
 				</div>
-								<div class="col-md-6 col-lg-5 p-b-30">
+					<div class="col-md-6 col-lg-5 p-b-30">
 					<div class="p-r-50 p-t-5 p-lr-0-lg">
 						<h4 class="mtext-105 cl2 js-name-detail p-b-14">
 							{{ $product->name }}
@@ -49,7 +49,7 @@
 								<div class="size-204 respon6-next">
 									<div class="rs1-select2 bor8 bg0">
 										<select class="js-select2 select2-hidden-accessible" name="time" tabindex="-1" aria-hidden="true">
-											<option>Choose an option</option>
+											<option>Chọn kích thước</option>
 											<option>Size S</option>
 											<option>Size M</option>
 											<option>Size L</option>
@@ -68,7 +68,7 @@
 								<div class="size-204 respon6-next">
 									<div class="rs1-select2 bor8 bg0">
 										<select class="js-select2 select2-hidden-accessible" name="time" tabindex="-1" aria-hidden="true">
-											<option>Choose an option</option>
+											<option>Chọn màu sắc</option>
 											<option>Red</option>
 											<option>Blue</option>
 											<option>White</option>
